@@ -272,8 +272,8 @@ def run_banner():
     time.sleep(1)
     stderr.writelines(f"""{Wh}
     {Wh}--------------------------------
-    {Wh}| {Gr}RUDRA-HKR - IP ADDRESS {Wh}|
-    {Wh}|      {Gr}RUDRA-HKR         {Wh}|
+    {Wh}| {Gr}RUDRA-HKR - IP ADDRESS.       {Wh}|
+    {Wh}|         {Gr}RUDRA-HKR             {Wh}|
     {Wh}--------------------------------
         """)
     time.sleep(0.5)
