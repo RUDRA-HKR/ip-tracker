@@ -18,10 +18,10 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/HunxByts/GhostTrack.git
-cd GhostTrack
+git clone https://github.com/RUDRA-HKR/Ip-tracker
+cd Ip-tracker
 pip3 install -r requirements.txt
-python3 GhostTR.py
+python3 Ip-tracker.py
 ```
 
 Display on the menu ```IP Tracker```
