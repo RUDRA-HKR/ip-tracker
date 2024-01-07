@@ -21,7 +21,7 @@ pkg install python3
 git clone https://github.com/RUDRA-HKR/Ip-tracker
 cd Ip-tracker
 pip3 install -r requirements.txt
-python3 Ip-tracker.py
+python3 ip-tracker.py
 ```
 
 Display on the menu ```IP Tracker```
